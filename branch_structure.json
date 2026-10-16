@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-62-add-approval-get-to-the-cli-the-only-detail",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-62-add-approval-get-to-the-cli-the-only-detail": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-62-add-approval-get-to-the-cli-the-only-detail",
+    "origin"
+  ]
+}
